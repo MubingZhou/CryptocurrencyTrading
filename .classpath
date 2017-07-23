@@ -2,5 +2,18 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/httpcomponents-client-4.5.3/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hasee/workspace/fastjson-1.1.32.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
